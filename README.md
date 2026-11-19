@@ -7,8 +7,8 @@ Senior Product Manager at [4Sale](https://www.q84sale.com), Kuwait's largest cla
 **Selected projects**
 
 - **[jarvis-hermes-voice](https://github.com/joegit1996/jarvis-hermes-voice)** — A real-time voice agent that runs locally: Whisper speech-to-text, a voice-cloned TTS engine, an approval gate before any real-world action, and LLM-generated 3D holograms you control with hand tracking. *Python, MediaPipe, local LLMs*
-- **[business-social-resolver](https://github.com/joegit1996/business-social-resolver)** — An API that finds a business's official website, Instagram and Facebook, and returns `null` rather than guess when confidence is low. Fuzzy matching, multi-signal scoring, and a CI-tested suite. *Python, FastAPI, pytest*
+- **[content-team](https://github.com/joegit1996/content-team)** — An AI agent team that collects structured content data at scale: describe what you need in plain language, approve the proposed schema, and get the data as CSV, JSON or pushed to an API. *Claude Code agent teams*
 
-**Tools:** Python · JavaScript · SQL · FastAPI · Supabase · Vercel · Amplitude
+**Tools:** Python · JavaScript · SQL · Supabase · Vercel · Amplitude
 
 [LinkedIn](https://linkedin.com/in/yousseffemad) · y.emadadel@gmail.com
